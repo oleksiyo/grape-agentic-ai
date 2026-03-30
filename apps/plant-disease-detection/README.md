@@ -1,7 +1,5 @@
 # AI Agronomist: Plant Disease Detection
 
-![Plant Disease Detection](./images/logo.png)
-
 ## Problem Description
 
 Plant diseases are a major threat to global food security, causing significant crop losses each year. Early and accurate detection of plant diseases is crucial for farmers to take timely action and minimize damage. Traditional disease identification relies on expert knowledge and visual inspection, which can be time-consuming, subjective, and inaccessible to many farmers.
@@ -98,12 +96,6 @@ plant-disease-detection/
 - Python 3.11+ (recommended: 3.13)
 - CUDA-capable GPU (optional, for faster training)
 
-
-**Clone repository**
-```bash
-git clone https://github.com/oleksiyo/plant-disease-detection.git
-cd plant-disease-detection
-```
 
 **Create virtual environment & Activate**
 ```bash
