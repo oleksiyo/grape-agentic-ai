@@ -1,0 +1,27 @@
+# -----------------------
+# Virtual Environments
+# -----------------------
+venv/
+env/
+ENV/
+idea/
+.venv/
+.ENV/
+.idea/
+.vscode/
+data/plantvillage dataset/**
+
+# -----------------------
+# Jupyter Notebooks
+# -----------------------
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+*.html
+*.pdf
+*.xml
+*.iml
+*.pyc
+*.zip
