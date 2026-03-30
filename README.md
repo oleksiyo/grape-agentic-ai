@@ -36,6 +36,11 @@ This repository is intentionally separated from the existing `plant-disease-dete
 2. Run this repository from:
    - `./grape-agentic-ai`
 
+
+## How to train model
+
+More details here:`./apps/plant-disease-detection/README.md`
+
 ## Quick Start
 
 1. Fill `.env` from `.env.example`
