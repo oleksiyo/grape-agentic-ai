@@ -31,9 +31,7 @@ This repository is intentionally separated from the existing `plant-disease-dete
 
 ## Expected Local Setup
 
-1. Keep your current project in sibling folder:
-   - `../plant-disease-detection`
-2. Run this repository from:
+Run this repository from:
    - `./grape-agentic-ai`
 
 
@@ -42,6 +40,8 @@ This repository is intentionally separated from the existing `plant-disease-dete
 More details here:`./apps/plant-disease-detection/README.md`
 
 ## Quick Start
+
+Before run app, need to train model.
 
 1. Fill `.env` from `.env.example`
 2. Start services:
