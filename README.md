@@ -43,7 +43,7 @@ More details here:`./apps/plant-disease-detection/README.md`
 
 Before run app, need to train model.
 
-1. Fill `.env` from `.env.example`
+1. Fill `.env`
 2. Start services:
 
 ```bash
